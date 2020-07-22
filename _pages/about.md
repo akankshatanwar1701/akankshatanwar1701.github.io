@@ -10,5 +10,5 @@ redirect_from:
 
 News Update
 ======
-xxxxxx
+**JULY 2020**: Working on [AI-Tic-Tac-Toe](https://codess-tic-tac-toe.herokuapp.com/)  
 
