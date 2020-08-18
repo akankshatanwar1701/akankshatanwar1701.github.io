@@ -12,7 +12,7 @@ Experienced Content Coordinator with a demonstrated history of working in the wr
 
 News Update
 ======
-**12 AUGUST 2020**: Secured the Third Place in [Microsoft Engage 2020](http://microsoft.acehacker.com/mars/) under the three member team category
-**25- 26 JULY 2020**: Attended the Google APAC Women Techmakers' Scholars Retreat!
-**JULY 2020**: Started working on [AI-Tic-Tac-Toe](https://codess-tic-tac-toe.herokuapp.com/)  
+**12 AUGUST 2020**: Secured the Third Place in [Microsoft Engage 2020](http://microsoft.acehacker.com/mars/) under the three member team category  
+**25- 26 JULY 2020**: Attended the Google APAC Women Techmakers' Scholars Retreat!  
+**JULY 2020**: Started working on [AI-Tic-Tac-Toe](https://codess-tic-tac-toe.herokuapp.com/)    
 
