@@ -12,6 +12,8 @@ Experienced Content Coordinator with a demonstrated history of working in the wr
 
 News Update
 ======
+**10 September 2020**: Started as a mentor at Codess.Cafe, to guide 5 sophomore women  
+**September 2020**: Secured a perfect 10 SGPA in the fourth semester at university!  
 **12 AUGUST 2020**: Secured the Third Place in [Microsoft Engage 2020](http://microsoft.acehacker.com/mars/)  
 **25- 26 JULY 2020**: Attended the Google APAC Women Techmakers' Scholars Retreat!  
 **JULY 2020**: Started working on [AI-Tic-Tac-Toe](https://codess-tic-tac-toe.herokuapp.com/)    
